@@ -2,49 +2,49 @@
 	{
           "title":"Lapsi",
           "category": "Taller Producto",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/lapsi.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/lapsi.webp?raw=true",
           "description":"Asiento plegable para niños en transporte publico<br><br>Juan Contreras"
         },
         {
         "title":"Blitz cookies",
           "category": "Taller Mercado",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/blitz.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/blitz.webp?raw=true",
           "description":"Galletas para jugar ajedrez<br><br>Juan Contreras"
         },
         {
           "title":"Lampara Flor",
           "category": "Estructuras y materiales",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/lamp.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/lamp.webp?raw=true",
           "description":"Lampara con petalos plegables<br><br>Juan Contreras"
         },
         {
           "title":"Agarradera de madera",
           "category": "Modelos y prototipos",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/handle.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/handle.webp?raw=true",
           "description":"Escultura de madera para abrir puertas sin tener contacto directo<br><br>Juan Contreras"
         },
         {
           "title":"Trofeo de la Tirana",
           "category": "Estructuras y materiales",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/trofeo.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/trofeo.webp?raw=true",
           "description":"Trofeo del festival La Tirana Musical<br><br>Felipe Barría"
         },        
         {
           "title":"Cafetera Giralt",
           "category": "Taller producto",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/coffee.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/coffee.webp?raw=true",
           "description":"Render de la Cafetera Giralt marca Roig<br><br>Felipe Barría"
         },
         {
           "title":"DELUZIO",
           "category": "Taller producto",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/kiosko.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/kiosko.webp?raw=true",
           "description":"Kiosko de providencia<br><br>Felipe Barría"
         },
         {
           "title":"Banco apilable",
           "category": "Estructura y materiales",
-          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/silla.png?raw=true",
+          "photo":"https://github.com/JuanCarlos2doContreras/Evaluacion2/blob/main/img/silla.webp?raw=true",
           "description":"Banco que puede aguantar hasta 100kg<br><br>Felipe Barría"
         }
 ]
