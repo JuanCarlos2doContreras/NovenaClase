@@ -16,6 +16,7 @@ async function datos(raw) {
                                 <img src="${trabajo.photo}" class"card-img-top">
                                 <div class="card-body">
                                 <p class="card-text">${trabajo.title}</p>
+                                <p class=card-text">${trabajo.description}</p>
                                 <div class="d-flex
                                 justify-content-between
                                 align-items-center">
