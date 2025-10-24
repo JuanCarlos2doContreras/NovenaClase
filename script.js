@@ -5,7 +5,8 @@ const portfolio = document.querySelector("#gary");
 async function datos(raw) {
     try {
         let consulta = await fetch(raw);
-        let trabajos = await consulta.json();
+        let resultado = await consulta.json();
+        let trabajos = resultado.data;
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
@@ -32,4 +33,4 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/JuanCarlos2doContreras/NovenaClase/refs/heads/main/datos.json");
+datos("https://api.myjson.online/v1/records/59980f01-d860-46f2-8842-8cedb6d3323c");
